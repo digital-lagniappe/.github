@@ -11,6 +11,5 @@ your expectations. In other words, it’s our goal to always leave you with “a
 
 ### History
 
-Originally founded by 3 friends during their time at Nicholls State University as a computer repair company. It was then run 
-by 1 of the original founders and changed to focus on custom software and web development. Hardware had been 
-cut back but custom computers were still built occasionally. It is now just a tag-line for that founder.
+Originally founded by three friends during their time at Nicholls State University as a computer repair company, the business was later run 
+by one of the original founders who shifted its focus to custom software and web development. Today, the company's name remains a tag-line for that founder.
