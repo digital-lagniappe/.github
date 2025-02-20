@@ -2,6 +2,8 @@
 
 Digital Lagniappe is a software development and technology consulting firm specializing in software development, website development, and custom computers.
 
+![Digital Lagniappe Banner](https://www.jeremyknight.me/img/dl/dl-header.jpg)
+
 ### Lagniappe
 
 In the south (especially Louisiana), lagniappe means "a small gift given to a customer" or more simply “a little something extra”. 
